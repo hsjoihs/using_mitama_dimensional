@@ -1,3 +1,6 @@
 [submodule "mitama-dimensional"]
 	path = mitama-dimensional
 	url = https://github.com/LoliGothick/mitama-dimensional
+[submodule "kv"]
+	path = kv
+	url = https://github.com/mskashi/kv

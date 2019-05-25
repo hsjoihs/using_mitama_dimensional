@@ -3,7 +3,9 @@
         {
             "name": "Mac",
             "includePath": [
-                "mitama-dimensional/include/**"
+                "mitama-dimensional/include/**",
+                "kv",
+                "/usr/local/opt/boost/include/"
             ],
             "defines": [],
             "macFrameworkPath": [
